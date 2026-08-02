@@ -6,9 +6,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+## Array
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
