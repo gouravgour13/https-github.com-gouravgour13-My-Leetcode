@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
