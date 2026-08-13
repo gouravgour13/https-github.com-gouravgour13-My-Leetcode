@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/0877-stone-game) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -32,10 +33,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
