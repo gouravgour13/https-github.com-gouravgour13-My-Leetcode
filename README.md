@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gouravgour13/https-github.com-gouravgour13-My-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
